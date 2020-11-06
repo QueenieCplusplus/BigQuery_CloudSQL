@@ -89,4 +89,15 @@ from step 3:
          gcloud sql connect [cloud sql instance name] --user=root
          // the name is as same as pink bar in step 2.3
 
+         [output]
+         
+            Welcome to the MariaDB monitor.  Commands end with ; or \g.
+            Your MySQL connection id is 494
+            Server version: 5.7.14-google-log (Google)
+
+            Copyright (c) 2000, 2017, Oracle, MariaDB Corporation Ab and others.
+
+            Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+            MySQL [(none)]>
 
