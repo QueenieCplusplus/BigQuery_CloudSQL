@@ -32,3 +32,7 @@ from step 1:
 * 1.2, upload CSV data to the newly created Cloud Storage Bucket.
 
     ![upload](https://cdn.qwiklabs.com/O0gGDUAw3%2BKFgvwpeQvYtmRFgfAlChH09mZMXpztL%2FM%3D)
+
+* 1.3, navigate to Storage >> SQL, then click on "create Cloud SQL instance".
+
+    ![cloud sql instance](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/sql_instance.png)
