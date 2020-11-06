@@ -124,5 +124,7 @@ from step 3:
   * 4.1, in the console for Cloud SQL Instance, click on "Import".
   
   * 4.2, then browse the Storage Bucket File.
+  
+  * 4.3, select the right file, and click on "Import".
 
 # Big Query
