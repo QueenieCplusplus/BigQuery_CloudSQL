@@ -115,6 +115,6 @@ from step 3:
             [output]
             It says "empty set" because you haven't loaded in any data yet.
             
-  * 3.5
+  * 3.5, back to step 1.
 
 # Big Query
