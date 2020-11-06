@@ -84,3 +84,6 @@ from step 3:
          // as above blue bar in step 1.5
 
 
+* 3.3, make connection to sql.
+
+
