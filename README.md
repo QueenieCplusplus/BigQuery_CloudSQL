@@ -114,7 +114,13 @@ from step 3:
             
             [output]
             It says "empty set" because you haven't loaded in any data yet.
-            
-  * 3.5, back to step 1.
+  
+ # Import Data to  Cloud SQL instance
+  
+  from step 4:
+  
+  > upload csv data to table.
+  
+  * 4.1, in the console for Cloud SQL Instance, click on "Import".
 
 # Big Query
