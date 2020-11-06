@@ -25,3 +25,6 @@ from step 1:
 > create Cloud SQL instance 
 
 * 1.1, in cloud console, navigate to Storage >> Browser, click on "Create Bucket".
+
+
+    ![storage bucket](https://cdn.qwiklabs.com/MJaLpJcY4bF7yM0I4XC%2BlzCe3F32kXqqayPLGZ5vK4Q%3D)
