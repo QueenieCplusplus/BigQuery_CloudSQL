@@ -177,3 +177,7 @@ from step 5:
 * 5.1, in cloud console, navigate to BigData > BigQuery, and both of the BigQuery Console and the Message Box are opened.
 
    ![big query](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/Big%20Query%20Console.png)
+
+* 5.2. check project id, then add data, and check DB & table.
+
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/add%20data.png)
