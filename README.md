@@ -42,3 +42,5 @@ from step 1:
     ![AC](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/AC.png)
 
 * 1.5, Cloud SQL Instance is created then.
+
+    ![](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/cloud_sql_instance_created_1.png)
