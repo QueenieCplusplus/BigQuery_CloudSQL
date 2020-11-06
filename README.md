@@ -39,3 +39,4 @@ from step 1:
 
 * 1.4, check the user & password to do Access Control to DB.
 
+    ![AC](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/AC.png)
