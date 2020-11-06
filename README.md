@@ -183,3 +183,11 @@ from step 5:
  check the project → dataset → table of the console, you can load up some queryable data.
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/add%20data%200.png)
+
+* tips & attentions:
+
+It's important to note that you are still working out of your "main project" in this left-hands tab. 
+
+All you did was pull a publicly accessible project that contains datasets and tables into BigQuery for analysis.It means you didn't switch over to that "main project". 
+
+All of your jobs and services are still tied to your account. You can see this for yourself by inspecting the project field near the top of the console.
