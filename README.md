@@ -65,5 +65,6 @@ from step 1:
          
          [example output]
          Project=kates-gcp-1234567890abcedee
+         // as above blue bar in step
 
 
