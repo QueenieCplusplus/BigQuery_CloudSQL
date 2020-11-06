@@ -107,5 +107,7 @@ from step 3:
            
             USE poupou;
             CREATE TABLE taiwanHome (start_station_name VARCHAR(255), num INT);
+            
+            SELECT * FROM taiwanHome;
 
 # Big Query
