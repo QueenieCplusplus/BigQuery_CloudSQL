@@ -12,9 +12,9 @@ In the second half, you will learn fundamental SQL querying keywords, which you 
 
 # Core Steps:
 
-(1) Create Cloud SQL instance
+(1) Create Cloud SQL instance, config AC.
 
-(2) uoload CSV data to Cloud SQL
+(2) uoload CSV data to Storage/Bucket
 
 (3) util Google Big Data Production Tool called Big Query
 
@@ -40,3 +40,5 @@ from step 1:
 * 1.4, check the user & password to do Access Control to DB.
 
     ![AC](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/AC.png)
+
+* 1.5, Cloud SQL Instance is created then.
