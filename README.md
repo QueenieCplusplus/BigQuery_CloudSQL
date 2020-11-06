@@ -51,4 +51,19 @@ from step 1:
 
 * 1.7, type cmd line in shell.
 
+         gcloud auth list
+         
+         [output]
+         Credentialed accounts: -<username>@<hostname>.com (active)
+         // as above pink bar in step
+         
+         gcloud config list project
+         
+         [output]
+         [Core]
+         Project=<poj_id>
+         
+         [example output]
+         Project=kates-gcp-1234567890abcedee
+
 
