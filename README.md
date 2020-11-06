@@ -12,17 +12,21 @@ In the second half, you will learn fundamental SQL querying keywords, which you 
 
 # Core Steps:
 
-(1) Create Cloud SQL instance, config AC.
+(1) uoload CSV data to Storage/Bucket.
 
-(2) uoload CSV data to Storage/Bucket
+(2) Create Cloud SQL instance, config AC.
 
-(3) util Google Big Data Production Tool called Big Query
+(3) Create Connection between Storage/Bucket to SQL instance.
+
+(4) util Google Big Data Production Tool called Big Query
 
 --------------
 
+# Storage Bucket
+
 from step 1:
 
-> create Cloud SQL instance 
+> upload Data to Storage Bucket
 
 * 1.1, in cloud console, navigate to Storage >> Browser, click on "Create Bucket".
 
@@ -32,24 +36,36 @@ from step 1:
 * 1.2, upload CSV data to the newly created Cloud Storage Bucket.
 
     ![upload](https://cdn.qwiklabs.com/O0gGDUAw3%2BKFgvwpeQvYtmRFgfAlChH09mZMXpztL%2FM%3D)
+    
+# Cloud SQL instance
 
-* 1.3, navigate to Storage >> SQL, then click on "create Cloud SQL instance".
+from step 2:
+
+> create Cloud SQL instance
+
+* 2.1, navigate to Storage >> SQL, then click on "create Cloud SQL instance".
 
     ![cloud sql instance](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/sql_instance.png)
 
-* 1.4, check the user & password to do Access Control to DB.
+* 2.2, check the user & password to do Access Control to DB.
 
     ![AC](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/AC.png)
 
-* 1.5, Cloud SQL Instance is created then.
+* 2.3, Cloud SQL Instance is created then.
 
     ![](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/cloud_sql_instance_created_1.png)
 
-* 1.6, activate Cloud Shell.
+# Connection using Cloud Shell
+
+from step 3:
+
+> activate Cloud Shell and type cmd line. (auth, project resource), then make it to connect with sql instance.
+
+* 3.1, activate Cloud Shell.
 
 ![gcloud](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/Cloud%20Shell.png)
 
-* 1.7, type cmd line in shell, to check Project ID and auth Users Account.
+* 3.2, type cmd line in shell, to check Project ID and auth Users Account.
 
          gcloud auth list
          
