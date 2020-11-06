@@ -137,7 +137,7 @@ from step 3:
 
 # Big Query
 
-！[GoogleBigQuery](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/google-bigquery.jpg)
+[GoogleBigQuery](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/google-bigquery.jpg)
 
 Return to your Cloud Shell session and run the following command at the MySQL server prompt to inspect the contents of table called taiwanHome, run sql cmd at the sql server prompt (we choose hereby the MySQL server. see step 2.1)
 
