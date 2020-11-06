@@ -137,7 +137,30 @@ from step 3:
 
 # Big Query
 
-Return to your Cloud Shell session and run the following command at the MySQL server prompt to inspect the contents of table called taiwanHome:
+Return to your Cloud Shell session and run the following command at the MySQL server prompt to inspect the contents of table called taiwanHome, run sql cmd at the sql server prompt (we choose hereby the MySQL server. see step 2.1)
+
+    SELECT * FROM taiwanHome;
+    
+    SELECT * FROM chinaHome;
+    
+    
+    
+    DELETE FROM taiwanHome WHERE num=0;
+    
+    
+    
+    
+    INSERT INTO taiwanHome (start_station_name, num) VALUES ("test destination", 1);
+    
+    
+    
+    
+    SELECT start_station_name AS top_stations, num FROM london1 WHERE num>100000
+    UNION
+    SELECT end_station_name, num FROM london2 WHERE num>100000
+    ORDER BY top_stations DESC;
+    
+    
 
 
   
