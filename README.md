@@ -86,4 +86,7 @@ from step 3:
 
 * 3.3, make connection to sql.
 
+         gcloud sql connect [cloud sql instance name] --user=root
+         // the name is as same as pink bar in step 2.3
+
 
