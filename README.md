@@ -28,3 +28,7 @@ from step 1:
 
 
     ![storage bucket](https://cdn.qwiklabs.com/MJaLpJcY4bF7yM0I4XC%2BlzCe3F32kXqqayPLGZ5vK4Q%3D)
+    
+* 1.2, upload CSV data to the newly created Cloud Storage Bucket.
+
+    ![upload](https://cdn.qwiklabs.com/O0gGDUAw3%2BKFgvwpeQvYtmRFgfAlChH09mZMXpztL%2FM%3D)
