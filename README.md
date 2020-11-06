@@ -126,5 +126,9 @@ from step 3:
   * 4.2, then browse the Storage Bucket File.
   
   * 4.3, select the right file, and click on "Import".
+  
+        [output UI]
+        
+      ![](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/import.png)
 
 # Big Query
