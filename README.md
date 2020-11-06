@@ -23,3 +23,5 @@ In the second half, you will learn fundamental SQL querying keywords, which you 
 from step 1:
 
 > create Cloud SQL instance 
+
+* 1.1, in cloud console, navigate to Storage >> Browser, click on "Create Bucket".
