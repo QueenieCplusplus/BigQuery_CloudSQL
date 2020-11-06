@@ -49,7 +49,7 @@ from step 1:
 
 ![gcloud](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/Cloud%20Shell.png)
 
-* 1.7, type cmd line in shell.
+* 1.7, type cmd line in shell, to check Project ID and auth Users Account.
 
          gcloud auth list
          
