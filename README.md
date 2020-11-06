@@ -41,6 +41,8 @@ from step 1:
     
 # Cloud SQL instance
 
+![Google Cloud SQL](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/google-cloud-sql.jpg)
+
 from step 2:
 
 > create Cloud SQL instance
