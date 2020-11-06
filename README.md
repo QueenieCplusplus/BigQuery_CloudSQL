@@ -122,5 +122,7 @@ from step 3:
   > upload csv data to table.
   
   * 4.1, in the console for Cloud SQL Instance, click on "Import".
+  
+  * 4.2, then browse the Storage Bucket File.
 
 # Big Query
