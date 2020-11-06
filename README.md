@@ -127,8 +127,17 @@ from step 3:
   
   * 4.3, select the right file, and click on "Import".
   
+  * 4.4, CSV files uploaded to tables called taiwanHome in the poupou database.
+
         [output UI]
         
       ![](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/import.png)
+      
+  * 4.5, do Big Query now!
 
 # Big Query
+
+Return to your Cloud Shell session and run the following command at the MySQL server prompt to inspect the contents of table called taiwanHome:
+
+
+  
