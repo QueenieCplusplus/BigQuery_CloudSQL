@@ -101,8 +101,11 @@ from step 3:
 
             MySQL [(none)]>
             
-  * 3.4, execute SQL statement now.
+ * 3.4, execute SQL statement now.
   
            CREATE DATABASE poupou;
+           
+            USE poupou;
+            CREATE TABLE taiwanHome (start_station_name VARCHAR(255), num INT);
 
 # Big Query
