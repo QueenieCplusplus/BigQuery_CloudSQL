@@ -18,7 +18,9 @@ In the second half, you will learn fundamental SQL querying keywords, which you 
 
 (3) Create Connection between Storage/Bucket to SQL instance.
 
-(4) util Google Big Data Production Tool called Big Query
+(4) as same as (1)
+
+(5) util Google Big Data Production Tool called Big Query
 
 --------------
 
@@ -109,5 +111,10 @@ from step 3:
             CREATE TABLE taiwanHome (start_station_name VARCHAR(255), num INT);
             
             SELECT * FROM taiwanHome;
+            
+            [output]
+            It says "empty set" because you haven't loaded in any data yet.
+            
+  * 3.5
 
 # Big Query
