@@ -47,3 +47,4 @@ from step 1:
 
 * 1.6, activate Cloud Shell.
 
+![](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/Cloud%20Shell.png
