@@ -55,7 +55,7 @@ from step 1:
          
          [output]
          Credentialed accounts: -<username>@<hostname>.com (active)
-         // as above pink bar in step
+     
          
          gcloud config list project
          
@@ -65,6 +65,6 @@ from step 1:
          
          [example output]
          Project=kates-gcp-1234567890abcedee
-         // as above blue bar in step
+         // as above blue bar in step 1.5
 
 
