@@ -170,3 +170,8 @@ from step 3:
 
 ![Google CBig Query](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/google-bigquery.jpg)
 
+from step 5:
+
+> util Big Query
+
+* 5.1, in cloud console, navigate to BigData > BigQuery.
