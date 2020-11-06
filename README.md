@@ -36,3 +36,6 @@ from step 1:
 * 1.3, navigate to Storage >> SQL, then click on "create Cloud SQL instance".
 
     ![cloud sql instance](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/sql_instance.png)
+
+* 1.4, check the user & password to do Access Control to DB.
+
