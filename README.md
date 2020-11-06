@@ -100,4 +100,9 @@ from step 3:
             Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 
             MySQL [(none)]>
+            
+  * 3.4, execute SQL statement now.
+  
+           CREATE DATABASE poupou;
 
+# Big Query
