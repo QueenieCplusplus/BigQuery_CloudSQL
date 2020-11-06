@@ -174,4 +174,6 @@ from step 5:
 
 > util Big Query
 
-* 5.1, in cloud console, navigate to BigData > BigQuery.
+* 5.1, in cloud console, navigate to BigData > BigQuery, and both of the BigQuery Console and the Message Box are opened.
+
+   ![big query](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/Big%20Query%20Console.png)
