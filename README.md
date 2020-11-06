@@ -180,4 +180,4 @@ from step 5:
 
 * 5.2. check project id, then add data, and check DB & table.
 
-  ![](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/add%20data.png)
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/add%20data%200.png)
