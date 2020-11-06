@@ -180,6 +180,6 @@ from step 5:
 
 * 5.2. check project id, then add data, and check DB & table.
 
- check the project → dataset → table paradigm and the intricacies of the console, you can load up some queryable data.
+ check the project → dataset → table of the console, you can load up some queryable data.
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/BigQuery_CloudSQL/main/add%20data%200.png)
